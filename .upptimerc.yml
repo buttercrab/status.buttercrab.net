@@ -13,7 +13,7 @@ sites:
   - name: Jetbrains Hub
     url: https://hub.buttercrab.net
   - name: Jetbrains Teamcity
-    url: https://teamcity.buttercrab.net
+    url: https://teamcity.buttercrab.net/app/rest/server
   - name: Jetbrains Upsource
     url: https://upsource.buttercrab.net
   - name: Jetbrains Youtrack
