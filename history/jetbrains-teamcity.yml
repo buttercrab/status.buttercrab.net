@@ -1,7 +1,7 @@
-url: https://teamcity.buttercrab.net/app/rest/server
-status: down
-code: 401
-responseTime: 614
-lastUpdated: 2021-01-16T05:52:54.252Z
+url: https://teamcity.buttercrab.net/login.html
+status: up
+code: 200
+responseTime: 642
+lastUpdated: 2021-01-16T05:59:58.382Z
 startTime: Sat Jan 16 2021 05:28:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
