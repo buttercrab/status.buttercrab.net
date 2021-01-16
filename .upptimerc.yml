@@ -13,7 +13,7 @@ sites:
   - name: Jetbrains Hub
     url: https://hub.buttercrab.net
   - name: Jetbrains Teamcity
-    url: https://teamcity.buttercrab.net/app/rest/server
+    url: https://teamcity.buttercrab.net/login.html
   - name: Jetbrains Upsource
     url: https://upsource.buttercrab.net
   - name: Jetbrains Youtrack
@@ -27,10 +27,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "Status of buttercrab.net services"
-  introMessage: Status of buttercrab.net services
-  navbar:
-    - title: Status
-      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
