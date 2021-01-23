@@ -10,14 +10,6 @@ sites:
     url: https://code-server.buttercrab.net
   - name: Owncloud
     url: https://owncloud.buttercrab.net
-  - name: Jetbrains Hub
-    url: https://hub.buttercrab.net
-  - name: Jetbrains Teamcity
-    url: https://teamcity.buttercrab.net/login.html
-  - name: Jetbrains Upsource
-    url: https://upsource.buttercrab.net
-  - name: Jetbrains Youtrack
-    url: https://youtrack.buttercrab.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
