@@ -12,6 +12,8 @@ sites:
     url: https://jupyter.buttercrab.net
   - name: Pluto
     url: https://pluto.buttercrab.net
+    expectedStatusCodes:
+      - 403
   - name: Owncloud
     url: https://owncloud.buttercrab.net
 
