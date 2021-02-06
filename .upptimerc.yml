@@ -8,6 +8,10 @@ sites:
     url: https://bitwarden.buttercrab.net
   - name: Code Server
     url: https://code-server.buttercrab.net
+  - name: Jupyter
+    url: https://jupyter.buttercrab.net
+  - name: Pluto
+    url: https://pluto.buttercrab.net
   - name: Owncloud
     url: https://owncloud.buttercrab.net
 
