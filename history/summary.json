@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/pluto.buttercrab.net",
     "slug": "pluto",
     "status": "up",
-    "uptime": "2.43%",
-    "uptimeDay": "2.43%",
-    "uptimeWeek": "2.43%",
-    "uptimeMonth": "2.43%",
-    "uptimeYear": "2.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 759,
     "timeWeek": 759,
     "timeMonth": 759,
     "timeYear": 759,
-    "dailyMinutesDown": {
-      "2021-02-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Owncloud",
