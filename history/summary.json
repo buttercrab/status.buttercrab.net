@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/code-server.buttercrab.net",
     "slug": "code-server",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.90%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1251,
     "timeDay": 1362,
     "timeWeek": 1343,
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2021-02-15": 27
+      "2021-02-15": 42
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://owncloud.buttercrab.net",
     "icon": "https://favicons.githubusercontent.com/owncloud.buttercrab.net",
     "slug": "owncloud",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1413,
-    "timeDay": 1491,
-    "timeWeek": 1362,
-    "timeMonth": 1413,
-    "timeYear": 1413,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1410,
+    "timeDay": 1430,
+    "timeWeek": 1356,
+    "timeMonth": 1410,
+    "timeYear": 1410,
     "dailyMinutesDown": {
-      "2021-02-15": 26
+      "2021-02-15": 42
     }
   }
 ]
