@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 701,
-    "timeDay": 703,
-    "timeWeek": 671,
-    "timeMonth": 727,
+    "timeDay": 682,
+    "timeWeek": 679,
+    "timeMonth": 728,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2021-02-15": 27
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/code-server.buttercrab.net",
     "slug": "code-server",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "99.35%",
-    "time": 1244,
-    "timeDay": 1312,
-    "timeWeek": 1226,
+    "uptimeYear": "99.36%",
+    "time": 1245,
+    "timeDay": 1307,
+    "timeWeek": 1236,
     "timeMonth": 1262,
-    "timeYear": 1244,
+    "timeYear": 1245,
     "dailyMinutesDown": {
       "2021-02-15": 392
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1770,
-    "timeDay": 1906,
-    "timeWeek": 1849,
-    "timeMonth": 1770,
-    "timeYear": 1770,
+    "time": 1774,
+    "timeDay": 1868,
+    "timeWeek": 1851,
+    "timeMonth": 1774,
+    "timeYear": 1774,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 797,
-    "timeDay": 695,
-    "timeWeek": 667,
-    "timeMonth": 797,
-    "timeYear": 797,
+    "time": 792,
+    "timeDay": 671,
+    "timeWeek": 663,
+    "timeMonth": 792,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 1391,
-    "timeDay": 1289,
-    "timeWeek": 1281,
-    "timeMonth": 1453,
-    "timeYear": 1391,
+    "time": 1390,
+    "timeDay": 1382,
+    "timeWeek": 1340,
+    "timeMonth": 1457,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2021-02-15": 42
     }
