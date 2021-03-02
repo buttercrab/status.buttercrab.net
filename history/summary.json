@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 701,
-    "timeDay": 689,
-    "timeWeek": 684,
-    "timeMonth": 737,
-    "timeYear": 701,
+    "time": 700,
+    "timeDay": 682,
+    "timeWeek": 686,
+    "timeMonth": 690,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/code-server.buttercrab.net",
     "slug": "code-server",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 1246,
-    "timeDay": 1290,
-    "timeWeek": 1227,
-    "timeMonth": 1280,
+    "timeDay": 1294,
+    "timeWeek": 1294,
+    "timeMonth": 1282,
     "timeYear": 1246,
     "dailyMinutesDown": {
       "2021-02-15": 392
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 1764,
-    "timeDay": 1515,
-    "timeWeek": 1844,
-    "timeMonth": 1764,
-    "timeYear": 1764,
+    "time": 1772,
+    "timeDay": 1984,
+    "timeWeek": 1866,
+    "timeMonth": 1772,
+    "timeYear": 1772,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 788,
-    "timeDay": 699,
-    "timeWeek": 670,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "time": 783,
+    "timeDay": 639,
+    "timeWeek": 672,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -85,16 +85,16 @@
     "icon": "https://favicons.githubusercontent.com/owncloud.buttercrab.net",
     "slug": "owncloud",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
-    "time": 1390,
-    "timeDay": 1366,
-    "timeWeek": 1353,
-    "timeMonth": 1474,
-    "timeYear": 1390,
+    "uptimeYear": "99.94%",
+    "time": 1388,
+    "timeDay": 1309,
+    "timeWeek": 1361,
+    "timeMonth": 1470,
+    "timeYear": 1388,
     "dailyMinutesDown": {
       "2021-02-15": 42
     }
