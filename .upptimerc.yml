@@ -8,6 +8,8 @@ sites:
     url: https://bitwarden.buttercrab.net
   - name: Code Server
     url: https://code-server.buttercrab.net
+  - name: Code Server (Tangerine)
+    url: https://tangerine.buttercrab.net
   - name: Jupyter
     url: https://jupyter.buttercrab.net
   - name: Pluto
