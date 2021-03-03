@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 700,
-    "timeDay": 682,
-    "timeWeek": 686,
-    "timeMonth": 690,
+    "timeDay": 681,
+    "timeWeek": 684,
+    "timeMonth": 691,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2021-02-15": 27
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/code-server.buttercrab.net",
     "slug": "code-server",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "99.39%",
-    "time": 1246,
-    "timeDay": 1294,
-    "timeWeek": 1294,
-    "timeMonth": 1282,
-    "timeYear": 1246,
+    "uptimeYear": "99.41%",
+    "time": 1240,
+    "timeDay": 875,
+    "timeWeek": 1236,
+    "timeMonth": 1270,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2021-02-15": 392
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 1772,
-    "timeDay": 1984,
-    "timeWeek": 1866,
-    "timeMonth": 1772,
-    "timeYear": 1772,
+    "time": 1775,
+    "timeDay": 1855,
+    "timeWeek": 1856,
+    "timeMonth": 1775,
+    "timeYear": 1775,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 783,
-    "timeDay": 639,
-    "timeWeek": 672,
-    "timeMonth": 783,
-    "timeYear": 783,
+    "time": 779,
+    "timeDay": 667,
+    "timeWeek": 674,
+    "timeMonth": 779,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
-    "time": 1388,
-    "timeDay": 1309,
-    "timeWeek": 1361,
-    "timeMonth": 1470,
-    "timeYear": 1388,
+    "time": 1389,
+    "timeDay": 1393,
+    "timeWeek": 1370,
+    "timeMonth": 1472,
+    "timeYear": 1389,
     "dailyMinutesDown": {
       "2021-02-15": 42
     }
