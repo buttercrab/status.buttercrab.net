@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 697,
-    "timeDay": 665,
-    "timeWeek": 674,
+    "timeDay": 674,
+    "timeWeek": 673,
     "timeMonth": 690,
     "timeYear": 697,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/code-server.buttercrab.net",
     "slug": "code-server",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "99.47%",
-    "time": 1238,
-    "timeDay": 1249,
-    "timeWeek": 1181,
-    "timeMonth": 1243,
-    "timeYear": 1238,
+    "uptimeYear": "99.48%",
+    "time": 1239,
+    "timeDay": 1302,
+    "timeWeek": 1235,
+    "timeMonth": 1244,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2021-02-15": 392
     }
@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1245,
-    "timeDay": 1271,
+    "timeDay": 1248,
     "timeWeek": 1245,
     "timeMonth": 1245,
     "timeYear": 1245,
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1784,
-    "timeDay": 1861,
-    "timeWeek": 1827,
-    "timeMonth": 1807,
-    "timeYear": 1784,
+    "time": 1785,
+    "timeDay": 1804,
+    "timeWeek": 1821,
+    "timeMonth": 1803,
+    "timeYear": 1785,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 754,
-    "timeDay": 649,
-    "timeWeek": 653,
+    "time": 752,
+    "timeDay": 675,
+    "timeWeek": 654,
     "timeMonth": 762,
-    "timeYear": 754,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
@@ -109,9 +109,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 1400,
-    "timeDay": 1786,
-    "timeWeek": 1479,
-    "timeMonth": 1374,
+    "timeDay": 1387,
+    "timeWeek": 1478,
+    "timeMonth": 1377,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2021-02-15": 42
