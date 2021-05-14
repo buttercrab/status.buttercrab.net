@@ -1,7 +1,7 @@
 url: https://jupyter.buttercrab.net
-status: up
-code: 200
-responseTime: 1810
-lastUpdated: 2021-05-13T23:18:19.545Z
+status: down
+code: 502
+responseTime: 3762
+lastUpdated: 2021-05-14T16:57:57.457Z
 startTime: Sat Feb 06 2021 14:08:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
