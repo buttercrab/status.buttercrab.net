@@ -1,7 +1,7 @@
 url: https://code-server.buttercrab.net
-status: up
-code: 200
-responseTime: 1071
-lastUpdated: 2021-06-08T23:14:07.312Z
+status: down
+code: 503
+responseTime: 688
+lastUpdated: 2021-06-09T11:02:02.792Z
 startTime: Sat Jan 16 2021 05:28:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
